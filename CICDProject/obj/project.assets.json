@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dUKE\\source\\repos\\WebApplication1\\WebApplication1\\CICDProject.csproj",
+      "projectUniqueName": "C:\\Users\\dUKE\\source\\repos\\CICDSolution\\CICDProject\\CICDProject.csproj",
       "projectName": "CICDProject",
-      "projectPath": "C:\\Users\\dUKE\\source\\repos\\WebApplication1\\WebApplication1\\CICDProject.csproj",
+      "projectPath": "C:\\Users\\dUKE\\source\\repos\\CICDSolution\\CICDProject\\CICDProject.csproj",
       "packagesPath": "C:\\Users\\dUKE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dUKE\\source\\repos\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\dUKE\\source\\repos\\CICDSolution\\CICDProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dUKE\\AppData\\Roaming\\NuGet\\NuGet.Config",
