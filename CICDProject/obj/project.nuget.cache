@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fCuxLNHRkMAhznUdN5wTZBWkIpeBDNhk0JAPwQivb9aJj6nSG8+cc5SIqdtNuQYXDA4jvCMSJO0Ugjn6ViwByA==",
+  "dgSpecHash": "W8TjNIKBpQkYShd1magr7w3fnYQEjFojLX9gBzr6tfzMeDo1qJ+U9zSiihoMCrzS5WPKZHudQoBTc5jvkUyJ9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dUKE\\source\\repos\\WebApplication1\\WebApplication1\\CICDProject.csproj",
+  "projectFilePath": "C:\\Users\\dUKE\\source\\repos\\CICDSolution\\CICDProject\\CICDProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dUKE\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\dUKE\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
